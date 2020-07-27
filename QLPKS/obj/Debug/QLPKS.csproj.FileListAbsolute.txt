@@ -1,0 +1,19 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\QLPKS\bin\Debug\QLPKS.exe.config
+C:\Users\Administrator\AppData\Local\Temporary Projects\QLPKS\bin\Debug\QLPKS.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\QLPKS\bin\Debug\QLPKS.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\QLPKS\obj\Debug\QLPKS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\QLPKS\obj\Debug\QLPKS.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\QLPKS\obj\Debug\QLPKS.Properties.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\QLPKS\obj\Debug\QLPKS.csproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\QLPKS\obj\Debug\QLPKS.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\QLPKS\obj\Debug\QLPKS.pdb
+E:\cc\QLPKS\QLPKS\bin\Debug\QLPKS.exe.config
+E:\cc\QLPKS\QLPKS\bin\Debug\QLPKS.exe
+E:\cc\QLPKS\QLPKS\bin\Debug\QLPKS.pdb
+E:\cc\QLPKS\QLPKS\obj\Debug\QLPKS.csprojAssemblyReference.cache
+E:\cc\QLPKS\QLPKS\obj\Debug\QLPKS.Form1.resources
+E:\cc\QLPKS\QLPKS\obj\Debug\QLPKS.Properties.Resources.resources
+E:\cc\QLPKS\QLPKS\obj\Debug\QLPKS.csproj.GenerateResource.cache
+E:\cc\QLPKS\QLPKS\obj\Debug\QLPKS.csproj.CoreCompileInputs.cache
+E:\cc\QLPKS\QLPKS\obj\Debug\QLPKS.exe
+E:\cc\QLPKS\QLPKS\obj\Debug\QLPKS.pdb
